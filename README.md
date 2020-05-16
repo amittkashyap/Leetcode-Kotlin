@@ -1,14 +1,13 @@
-# Leetcode-Kotlin
+# Leetcode-Kotlin (https://leetcode.com/kashyap_ios/)
 Leetcode problem solutions in Kotlin written by me. 
 
-# Leetcode Profile 
-https://leetcode.com/kashyap_ios/
+Other prifiles:
 
-# Twitter Profile 
-https://twitter.com/amitt_kashyap
+* https://twitter.com/amitt_kashyap
+* https://www.linkedin.com/in/swiftyamit/
 
-# Linkedin Profile 
-https://www.linkedin.com/in/swiftyamit/
 
 # LC questions 
 
+* LC EASY
+* LC MEDIUM 

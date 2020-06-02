@@ -4,7 +4,7 @@ Leetcode problem solutions in Kotlin written by me.
 Other prifiles:
 
 * https://twitter.com/amitt_kashyap
-* https://www.linkedin.com/in/swiftyamit/
+* www.linkedin.com/in/amittkashyap
 
 
 # LC questions 

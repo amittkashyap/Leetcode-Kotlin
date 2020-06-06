@@ -1,9 +1,10 @@
-# Leetcode-Kotlin (https://leetcode.com/kashyap_ios/)
+
+# Leetcode-Kotlin (https://leetcode.com/amittkashyap/)
 Leetcode problem solutions in Kotlin written by me. 
 
 Other profiles:
 
-* https://twitter.com/amitt_kashyap
+* https://twitter.com/amittkashyap
 * www.linkedin.com/in/amittkashyap
 
 

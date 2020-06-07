@@ -3,11 +3,8 @@ Leetcode problem solutions in Kotlin written by me.
 
 ![Leetcode-Kotlin](https://github.com/amittkashyap/Leetcode-Kotlin/blob/master/LeetCode_Kotlin.png)
 
-Other profiles:
-
-* [Find me on Twitter!](https://twitter.com/amittkashyap)
+* [Follow me on Twitter!](https://twitter.com/amittkashyap)
 * [Hire me on LinkedIn](www.linkedin.com/in/amittkashyap)
-
 
 # LC questions 
 

@@ -4,8 +4,8 @@ Leetcode problem solutions in Kotlin written by me.
 
 Other profiles:
 
-* https://twitter.com/amittkashyap
-* www.linkedin.com/in/amittkashyap
+* [Find me on Twitter!](https://twitter.com/amittkashyap)
+* [Hire me on LinkedIn](www.linkedin.com/in/amittkashyap)
 
 
 # LC questions 

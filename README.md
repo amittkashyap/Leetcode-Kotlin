@@ -14,7 +14,7 @@ Other profiles:
 
 LC Question | Solution
 ------------ | -------------
-[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution] (https://github.com/amittkashyap/Leetcode-Kotlin/blob/master/Easy%20LC/104_Maximum_Depth_of_Binary_Tree.kt)
+[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](https://github.com/amittkashyap/Leetcode-Kotlin/blob/master/Easy%20LC/104_Maximum_Depth_of_Binary_Tree.kt)
 
 * LC MEDIUM 
 * LC HARD

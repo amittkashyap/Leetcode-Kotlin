@@ -1,6 +1,7 @@
-
 # Leetcode-Kotlin 
 Leetcode problem solutions in Kotlin written by me. 
+
+![Leetcode-Kotlin](https://github.com/amittkashyap/Leetcode-Kotlin/blob/master/LeetCode_Kotlin.png)
 
 Other profiles:
 

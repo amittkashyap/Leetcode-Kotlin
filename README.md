@@ -18,4 +18,9 @@ LC Question | Solution
 [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](https://github.com/amittkashyap/Leetcode-Kotlin/blob/master/Easy%20LC/350_Intersection_of_Two_Arrays_II.kt)
 
 * LC MEDIUM 
+
+LC Question | Solution
+------------ | -------------
+[139. Word Break](https://leetcode.com/problems/word-break/) | [Solution](https://github.com/amittkashyap/Leetcode-Kotlin/blob/master/Medium%20LC/139_WordBreak.kt)
+
 * LC HARD

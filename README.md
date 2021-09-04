@@ -5,7 +5,7 @@ Leetcode problem solutions in Kotlin written by me.
 ![Leetcode-Kotlin-gif](https://github.com/amittkashyap/Leetcode-Kotlin/blob/master/LeetCode_Kotlin_gif.gif)
 
 * [Follow me on Twitter!](https://twitter.com/amittkashyap)
-* [Hire me on LinkedIn](www.linkedin.com/in/amittkashyap)
+* [Hire me on LinkedIn](https://www.linkedin.com/in/amittkashyap/)
 
 # LC questions 
 
